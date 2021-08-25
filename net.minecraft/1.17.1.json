@@ -397,8 +397,8 @@
     "releaseTime": "2021-07-06T12:01:34+00:00",
     "requires": [
         {
-            "equals": "3.2.2",
-            "suggests": "3.2.2",
+            "equals": "3.2.3",
+            "suggests": "3.2.3",
             "uid": "org.lwjgl3"
         }
     ],
